@@ -11,11 +11,11 @@ This widget has the following properties:
   
 
 
-## Api
+### Api
 *__start__ -> activate the progressbar
 *__stop__ -> deactivate the progresbar
 
-##Events
+###Events
 *__stop__ -> when stop api is called, or when value == max
 *__start__ -> when start method is called or when value is > 0 and the state was stopped
 
